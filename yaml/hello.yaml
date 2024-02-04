@@ -1,0 +1,29 @@
+"apple" : "I'm an apple"
+
+1. "name" : "Tadikonda Sai Manikanta"
+
+---
+
+# lists
+- apple 
+- banana
+- cherry
+- date
+
+--- 
+
+languages:
+  - JavaScript 
+  - TypeScript
+  - Java
+  - Go
+
+---
+
+languages : [ "JavaScript", "TypeScript", "Java", "Go" ]
+
+--- 
+
+{ name: "Tadikonda Sai Manikanta", age: 20 }
+ 
+...

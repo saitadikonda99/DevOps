@@ -1,0 +1,37 @@
+name1 : Tadikonda Sai Manikanta
+name2: "kusuma"
+name3: 'Shreya'
+age : 20
+
+
+bio : | 
+  hey my name is Tadikonda Sai Manikanta.
+  and i am very nice dude.
+
+
+# write a single line in different multiple lines
+
+message : >
+  hey my 
+  name is 
+  Tadikonda Sai Manikanta.
+  and i am very nice dude.
+
+# same as this 
+message1 : "hey my name is Tadikonda Sai Manikanta. and i am very nice dude."
+
+
+number: 805
+marks: 90.5
+
+# boolean
+isStudent: true # y or yes or Y or YES or true or True or TRUE
+
+
+# specify the type 
+zero : !!int 0
+positiveNum: !!int 55
+negativeNum: !!int -55
+binaryNum: 0b101010
+commaValue: 500_00 # 50000
+
